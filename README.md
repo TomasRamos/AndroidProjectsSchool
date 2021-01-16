@@ -1,2 +1,2 @@
-# AndroidSchoolProjects
-My android school projects
+# AndroidProjectsSchool
+My school android projects
